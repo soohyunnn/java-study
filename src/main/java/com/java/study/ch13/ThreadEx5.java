@@ -1,4 +1,4 @@
-package com.java.study.ch12;
+package com.java.study.ch13;
 
 public class ThreadEx5 {
     static long startTime = 0;
